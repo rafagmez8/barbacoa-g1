@@ -4,6 +4,9 @@
 # Ordenados por orden alfabético
 # Formato: Apellidos, Nombre
 
+Chávez García, Ramón
+Gomez Galbarro, Rafael
 Juan, Jorge
 Luque Romero, Ruben
+Reina Martín, Ricardo
 Torrecilla Fuentes, José Antonio
