@@ -9,6 +9,8 @@ Lista de bebidas
 
 Cerveza sin
 Cocacola
+Fanta de naranja
+Zumo de naranja
 
 Con alcohol
 -----------
