@@ -7,6 +7,7 @@ Cocina y comida
 ---------------
 
 Cucharas
+Cuchillos
 Plancha
 Tenedores
 
@@ -21,6 +22,8 @@ Sillas
 Diversión
 ---------
 
-Juego de la oca
+Altavoces
 Balón de fútbol
+Juego de la oca
+Mesa de ping pong
 Radiocassette
