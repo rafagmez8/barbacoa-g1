@@ -8,13 +8,9 @@ Por orden alfabético
 
 Volkswagen Golf (Torrecilla Fuentes, Jose Antonio, 5)
 ----------------------------------------------------
-<<<<<<< HEAD
-
 -Gomez Galbarro, Rafael 
-=======
-- Luque Romero, Ruben
->>>>>>> upstream/master
 -Chávez García, Ramón
+-Luque Romero, Ruben
 -Reina Martín, Ricardo
 -
 -
