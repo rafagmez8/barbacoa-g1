@@ -8,12 +8,16 @@ Lista de bebidas
 -----------
 
 Cerveza sin
+Cocacola
 Fanta de naranja
 Zumo de naranja
 
 Con alcohol
 -----------
 
+Beefeater
 Cerveza
+Matusalem 23
 J&B
 Rives 12 años
+
